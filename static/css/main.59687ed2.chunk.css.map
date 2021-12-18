@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,mCAAqC,CACrC,8BAAgC,CAChC,6BACF","file":"main.59687ed2.chunk.css","sourcesContent":["body {\n  font-family: \"Alfa Slab One\", cursive;\n  font-family: \"Anton\", sans-serif;\n  font-family: \"Lato\", sans-serif;\n}\n"]}
