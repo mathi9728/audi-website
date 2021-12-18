@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/audi-website/static/css/main.59687ed2.chunk.css",
-    "main.js": "/audi-website/static/js/main.58877a2e.chunk.js",
-    "main.js.map": "/audi-website/static/js/main.58877a2e.chunk.js.map",
+    "main.js": "/audi-website/static/js/main.9171e9c7.chunk.js",
+    "main.js.map": "/audi-website/static/js/main.9171e9c7.chunk.js.map",
     "runtime-main.js": "/audi-website/static/js/runtime-main.6d0987b7.js",
     "runtime-main.js.map": "/audi-website/static/js/runtime-main.6d0987b7.js.map",
     "static/css/2.0a9ec390.chunk.css": "/audi-website/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.50a24c76.chunk.js": "/audi-website/static/js/2.50a24c76.chunk.js",
-    "static/js/2.50a24c76.chunk.js.map": "/audi-website/static/js/2.50a24c76.chunk.js.map",
+    "static/js/2.00828e8a.chunk.js": "/audi-website/static/js/2.00828e8a.chunk.js",
+    "static/js/2.00828e8a.chunk.js.map": "/audi-website/static/js/2.00828e8a.chunk.js.map",
     "index.html": "/audi-website/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/audi-website/static/css/2.0a9ec390.chunk.css.map",
     "static/css/main.59687ed2.chunk.css.map": "/audi-website/static/css/main.59687ed2.chunk.css.map",
-    "static/js/2.50a24c76.chunk.js.LICENSE.txt": "/audi-website/static/js/2.50a24c76.chunk.js.LICENSE.txt"
+    "static/js/2.00828e8a.chunk.js.LICENSE.txt": "/audi-website/static/js/2.00828e8a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6d0987b7.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.50a24c76.chunk.js",
+    "static/js/2.00828e8a.chunk.js",
     "static/css/main.59687ed2.chunk.css",
-    "static/js/main.58877a2e.chunk.js"
+    "static/js/main.9171e9c7.chunk.js"
   ]
 }
